@@ -21,9 +21,6 @@ function NavBar(){
                 <li>
                     <Link to={"/cities-children"}>Lista Citta children</Link>
                 </li>
-                <li>
-                    ciao
-                </li>
             </ul>
         </div>
         </>
